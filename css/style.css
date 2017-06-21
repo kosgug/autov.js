@@ -1,0 +1,19 @@
+@charset "utf-8";
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 46.875rem;
+  padding: 3.125rem 0;
+}
+.container h1 {
+  text-align: center;
+  font-size: 3.125rem;
+}
+.container h2 {
+  text-align: center;
+  color: #666;
+  font-weight: normal;
+}
